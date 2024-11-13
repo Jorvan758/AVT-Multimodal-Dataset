@@ -19,6 +19,10 @@ a{
     padding: 0.5%;
 }
 
+audio{
+    width: 19%;
+}
+
 .row::after{
     content: "";
     display: table;
