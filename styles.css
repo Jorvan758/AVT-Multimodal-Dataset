@@ -14,8 +14,8 @@ a{
 }
 
 .column{
-    float: none;
-    width: 18%;
+    float: left;
+    width: 19%;
     padding: 5px;
 }
 
