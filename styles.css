@@ -13,7 +13,7 @@ a{
     color: greenyellow;
 }
 
-row::after{
+.row::after{
     content: "";
     display: table;
     clear: both;
