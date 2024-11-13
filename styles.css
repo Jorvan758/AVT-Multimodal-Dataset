@@ -27,4 +27,7 @@ audio{
     content: "";
     display: table;
     clear: both;
+    border-top: 2px solid skyblue;
+    border-bottom: 2px solid skyblue;
+    border-radius: 2px;
 }
