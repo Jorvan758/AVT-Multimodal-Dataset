@@ -12,3 +12,9 @@ body{
 a{
     color: greenyellow;
 }
+
+row::after{
+    content: "";
+    display: table;
+    clear: both;
+}
