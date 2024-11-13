@@ -16,7 +16,7 @@ a{
 .column{
     float: left;
     width: 19%;
-    padding: 2%;
+    padding: 1%;
 }
 
 .row::after{
